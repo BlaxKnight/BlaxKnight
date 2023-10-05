@@ -1,9 +1,21 @@
 <h1 align="left">:wave: Hello there! I'm BlacKnight</h1>
 <h3 align="left">I am a Back-end Web Developer</h3>
 
-<a href="#blaxknight-title">
+<!--<a href="#blaxknight-title">
   <img src="https://github-readme-stats.vercel.app/api?username=blaxknight&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="amanfromspace" align="right" />
-</a>
+</a>-->
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=blaxknight&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=blaxknight&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=blaxknight&show_icons=true" align="right" />
+</picture>
 
 - :seedling: &nbsp;I’m currently learning **[Bash](https://www.gnu.org/software/bash/manual/bash.html)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)** and **[Vuejs](https://vuejs.org/)**
 - ♟️ &nbsp;I regulary play chess in **[Lichess](https://lichess.org/@/BlaxKnight)**
