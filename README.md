@@ -26,7 +26,7 @@
 <br>
 
 I'm a Novice Developer on my own.<br>
-Working with my brother **[WitchieDev](https://github.com/witchiedev)** ( He is a Front-end Web Developer ), we're collaborating our projects, coding together until the job done and that's it. Stay Fit :)
+Working with my brother **[WitchieDev](https://github.com/witchiedev)** ( He is a Front-end Web Developer ), we're collaborating our projects, coding together until the job done and that's it. Stay Fit!
 
 <h2 align="left">Favorite Tech</h2>
 
